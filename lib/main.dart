@@ -13,7 +13,7 @@ class GroceryApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Online Grocery',
+      title: 'Online Grocery App',
       theme: ThemeData(
         fontFamily: 'Arial',
         scaffoldBackgroundColor: Colors.white,
